@@ -1,1 +1,1 @@
-# These codes showcase Loop methods with examples in Python.
+# These codes showcase Loop methods with examples.
